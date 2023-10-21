@@ -1,0 +1,17 @@
+# Arquivos de build e diretórios gerados pelo TypeScript
+/dist/
+/node_modules/
+
+# # Arquivo de configuração de ambiente
+# .env
+
+# Arquivos de log
+logs/
+*.log
+npm-debug.log*
+
+# Arquivos de backup
+*.bak
+
+# Arquivos temporários
+*.swp
